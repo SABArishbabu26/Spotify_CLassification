@@ -1,7 +1,8 @@
 # Spotify_CLassification
 Built a machine learning model that can predict the genre of a song. This project also involves analysing huge set of data to find the correlation between various attributes and how quality features can be used to predict the outcome for the new dataset.
 
-#If it's not rendering please follow the below steps
+# If it's not rendering please follow the below steps.
+
 Step 1:
 First, go to your .ipynb file which is showing an error and copy the URL of that .ipynb file.
 
